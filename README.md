@@ -4,6 +4,7 @@
 <h2 align="center">Crafting Code into Solutions 🚀</h2>
 
 <p align="center"><i>Let’s build, one bug at a time ⚙✨</i></p>
+<img align="right" alt="coding" width="400" src="https://vectorified.com/image/vector-gif-5.gif">
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 ---
@@ -23,10 +24,10 @@
 | *Category*               | *Tools & Technologies*                                                                 |
 |----------------------------|-----------------------------------------------------------------------------------------|
 | *Languages*              | C, C++, Python, Java, JavaScript                                                       |
-| *Frontend*               | HTML, CSS, JavaScript, React                                                           |                                                                   |
+| *Frontend*               | HTML, CSS, JavaScript, React                                                           |                                              |
 | *Database*               | MySQL, MongoDB                                                                         |
-| *ML / AI / CV*           | NumPy, Pandas, Matplotlib, Scikit-learn, OpenCV, YOLO                                  |
-| *Tools & Frameworks*     | Git, GitHub, VS Code, Postman, Streamlit, Figma                                        |
+| *AI / ML*           | NumPy, Pandas, Matplotlib, Scikit-learn, OpenCV, YOLO                                  |
+| *Tools & Frameworks*     | Git, GitHub, VS Code, Streamlit, Figma                                        |
 
 ---
 
